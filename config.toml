@@ -1,4 +1,4 @@
-baseURL = 'https://example.com/'
+baseURL = 'https://aa-catalog.durumi.io/'
 title = 'AA-Catalog'
 theme = 'hugo-book'
 languageCode = "kr-ko"
