@@ -1,0 +1,14 @@
+- id: Search
+  translation: 검색
+
+- id: Edit this page
+  translation: 이 페이지를 편집하세요.
+
+- id: Last modified by
+  translation: 최근 수정일
+
+- id: Expand
+  translation: 열기
+
+- id: bookSearchConfig
+  translation: '{ cache: true }'
